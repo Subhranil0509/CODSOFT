@@ -142,7 +142,7 @@ header ul li a:hover {
     max-width: 340px;
 }
 
-.sci {
+.social {
     position: absolute;
     top: 50%;
     right: 30px;
@@ -153,17 +153,17 @@ header ul li a:hover {
     flex-direction: column;
 }
 
-.sci li {
+.social li {
     list-style: none;
 }
 
-.sci li a {
+.social li a {
     display: inline-block;
     margin: 5px 0;
     transform: scale(0.7);
 }
 
-.sci li a:hover {
+.social li a:hover {
     filter: invert(.30);
 }
 
